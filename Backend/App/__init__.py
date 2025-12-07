@@ -1,1 +1,0 @@
-# MoodBuddy backend package
