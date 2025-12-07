@@ -1,0 +1,2 @@
+-- Optional placeholder for manual DB initialization.
+-- The app will auto-create tables via SQLAlchemy on startup.
