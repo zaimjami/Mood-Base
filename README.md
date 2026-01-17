@@ -31,4 +31,4 @@ By default you should get:
 - Frontend: http://localhost:3000
 - Backend docs (Swagger): http://localhost:8000/docs
 
-For more, see comments in the code – they read like a teammate walking you through the logic.
+For more you can def check out or see comments in the code as they read like a teammate walking you through the logic.
